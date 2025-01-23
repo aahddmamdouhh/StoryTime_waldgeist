@@ -8,4 +8,4 @@ Mohamed Hamdan , https://github.com/hdathert/Schattenwald_Storytime/compare/main
 
 Nour Elmangoury(nelmango) , Pull Request Link : "https://github.com/mtaher2/qubbaa-sawda/pull/7"
 
-mohamed abdelshafy(mabdel1) , https://github.com/rjaworskiASU/Mondschatten_spring25A_story/pull/16
+mohamed abdelshafy(mabdel1) ,https://github.com/mtaher2/qubbaa-sawda/pull/8
